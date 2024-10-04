@@ -1,4 +1,4 @@
-# Dump Truck Ticketing App
+# Dump Truck Ticketing App version 1
 
 Welcome to the **Dump Truck Ticketing App**! This project is designed to streamline the management of dump truck tickets, making it easier for users to create, track, and manage tickets efficiently.
 
